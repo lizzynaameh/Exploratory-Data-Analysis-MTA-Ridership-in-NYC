@@ -12,7 +12,7 @@ MTA Ridership [exploratory data analysis]
 #### Data Description:
 
 - I'm looking at the MTA's weekly [turnstile CSVs](http://web.mta.info/developers/turnstile.html). Each row contains a count of the number of the people who swiped through, or exited, a given turnstile within a four hour interval. So, it's possible to observe the flow of passengers throughout the day. 
-- I am also using MTA's [Stations data](http://web.mta.info/developers/developer-data-terms.html#data) which maps stations to their latitude/longitudes for geospatial visualization.
+- I am also using [MTA's Stations location data](https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49) which maps stations to their latitude/longitudes for geospatial visualization, and [NYC borough maps](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm) data to map my findings. 
 - Using the data, I'll construct two main metrics: passenger counts and relative percentage change of passengers by station.
 
 #### Tools:
