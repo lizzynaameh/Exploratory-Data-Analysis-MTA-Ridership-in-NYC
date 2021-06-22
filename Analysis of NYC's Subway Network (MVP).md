@@ -8,10 +8,10 @@ To explore the data, I plotted the distribution of cumulative entries and exits 
 
 The line chart below plots the daily foot traffic (total exits and entries) for the busiest 10 stations, compared to the average of all MTA stations.
 
-![MTA Daily Ridership in 2021 (top stations vs. avg)](/images/MTA Daily Ridership in 2021 (top stations vs. avg).png)
+![MTA Daily Ridership in 2021 (top stations vs. avg)](https://github.com/lizzynaameh/mta_eda/blob/46df9804bebbd516b5c471e73433f6efb68f3bb2/Images/MTA%20Daily%20Ridership%20in%202021%20(top%20stations%20vs.%20avg).png)
 
 Finally, I plotted total foot traffic per station against a map of the New York City's subway-connected boroughs. The map reveals that the busiest stations are concentrated in Manhattan. Indeed, the 8 busiest stations by foot traffic (34th St-Penn through Union Sq-14th St) aree all located in Manhattan.
 
-![MTA Ridership in 2021 - borough map](/images/MTA Ridership in 2021 - borough map.png)
+![MTA Ridership in 2021 - borough map](https://github.com/lizzynaameh/mta_eda/blob/46df9804bebbd516b5c471e73433f6efb68f3bb2/Images/MTA%20Ridership%20in%202021%20-%20borough%20map.png)
 
 This result suggests that the MTA may need to focus resources on Manhattan to prevent overcrowding as subway transit becomes more populated in the months following New York City's re-opening. 
