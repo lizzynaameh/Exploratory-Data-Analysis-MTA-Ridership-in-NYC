@@ -7,7 +7,7 @@ MTA Ridership [exploratory data analysis]
 
 - As New York City slowly resumes normal life and people return to work, the Metropolitan Transit Agency is tasked with [keeping riders safe](https://www.wsj.com/articles/how-does-new-york-keep-transit-riders-safe-from-covid-19-trial-and-error-11609678802). Overcrowding on subways will continue to present a health risk to riders unless addressed creatively. The MTA wants to understand where ridership is highest and growing the fastest in order to keep the public safe. 
 
-  This information can inform plans to deploy more buses in hot spots and invest in alternate transit options, such as creating [more busways](https://www.nytimes.com/2020/07/06/nyregion/mta-buses-nyc-coronavirus.html) and [bike lanes](https://www.nytimes.com/2021/01/28/nyregion/bike-brooklyn-bridge-de-blasio.html), to relieve overcrowding. In order for mass transit to persist, riders must view it as safe; this analysis represents a preliminary step toward reaching that goal.
+  This information can inform plans to deploy more buses in hot spots and invest in alternate transit options, such as creating [more busways](https://www.nytimes.com/2020/07/06/nyregion/mta-buses-nyc-coronavirus.html) and [bike lanes](https://www.nytimes.com/2021/01/28/nyregion/bike-brooklyn-bridge-de-blasio.html) and [parking](https://www.nytimes.com/2021/01/26/nyregion/bike-parking-nyc.html), to relieve overcrowding. In order for mass transit to persist, riders must view it as safe; this analysis represents a preliminary step toward reaching that goal.
 
 #### Data Description:
 
