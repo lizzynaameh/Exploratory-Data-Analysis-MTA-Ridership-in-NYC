@@ -4,7 +4,7 @@ As New York City resumes normal life in a 'post-pandemic' world, the Metropolita
 
 To explore the data, I plotted the distribution of cumulative entries and exits by station over the six month period from January to June of 2021 using side-by-side boxplots. The right skew indicates that the majority of subway stations carry a lower volume of passengers (roughly between 200,000 and 1.6 million roughly), while just a few stations carry a high volume. 34th St-Penn station is the busiest station by far, using both entries and exits as metrics. 
 
-![Boxplot Distribution of Cumulative Entries by Station](Images/Boxplot Distribution of Cumulative Entries by Station.png)
+![Boxplot Distribution of Cumulative Entries by Station](https://github.com/lizzynaameh/mta_eda/blob/0033105bbe3b1c7cc1c21309e169744aabf0a9e7/Images/Boxplot%20Distribution%20of%20Cumulative%20Entries%20by%20Station.png)
 
 The line chart below plots the daily foot traffic (total exits and entries) for the busiest 10 stations, compared to the average of all MTA stations.
 
