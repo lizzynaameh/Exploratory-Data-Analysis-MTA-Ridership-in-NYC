@@ -1,4 +1,4 @@
-## Analysis of MTA 
+## Analysis of NYC's Subway Network (MVP)
 
 As New York City resumes normal life in a 'post-pandemic' world, the Metropolitan Transit Agency is tasked with [keeping riders safe](https://www.wsj.com/articles/how-does-new-york-keep-transit-riders-safe-from-covid-19-trial-and-error-11609678802). This includes monitoring subway stations for overcrowding, which remains a health risk as vaccination efforts are ongoing.  The goal of this project is to better understand where ridership is highest and growing the fastest to help the MTA make decisions that promote public health.
 
