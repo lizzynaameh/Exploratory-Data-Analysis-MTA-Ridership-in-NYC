@@ -17,7 +17,7 @@ MTA Ridership [exploratory data analysis]
 
 #### Tools:
 
-- I am using SQL to query in data, pandas for data analysis and manipiulation, matplotlib for visualizations, and geopandas for geospatial analysis.
+- I am using SQL to query in data, pandas for data analysis and manipiulation, matplotlib and seaborn for visualizations, geopandas for geospatial analysis, and scikitlearn for modeling.
 
 #### MVP Goal:
 
