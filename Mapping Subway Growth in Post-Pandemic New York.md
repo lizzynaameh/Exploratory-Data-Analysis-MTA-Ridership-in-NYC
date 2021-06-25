@@ -42,7 +42,8 @@ Linear regression was used to identify boroughs and stations with the fastest ab
 
 In addition to the slides and visuals presented, the MTA Analysis will be embedded on my personal website and blog.
 
-<img src="https://github.com/lizzynaameh/mta_eda/raw/46df9804bebbd516b5c471e73433f6efb68f3bb2/Images/MTA%20Ridership%20in%202021%20-%20borough%20map.png" width="100" height="100">
+<img src="https://github.com/lizzynaameh/mta_eda/raw/46df9804bebbd516b5c471e73433f6efb68f3bb2/Images/MTA%20Ridership%20in%202021%20-%20borough%20map.png" width="200" height="300">
+<img src="https://github.com/lizzynaameh/mta_eda/blob/main/Images/Subway%20Traffic%20Growth%20by%20Borough%2C%202021.png" width="500" height="260">
 
 ![MTA Ridership in 2021 - borough map](https://github.com/lizzynaameh/mta_eda/raw/46df9804bebbd516b5c471e73433f6efb68f3bb2/Images/MTA%20Ridership%20in%202021%20-%20borough%20map.png)
 ![Subway Traffic Growth by Borough, 2021](https://github.com/lizzynaameh/mta_eda/blob/main/Images/Subway%20Traffic%20Growth%20by%20Borough%2C%202021.png)
